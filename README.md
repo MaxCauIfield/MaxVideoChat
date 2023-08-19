@@ -1,4 +1,6 @@
 # MaxVideoChat-Max Caulfield面部追踪系统 v0.1.0版
+语言：简体中文（中国），如果你需要英文说明，请参阅此README.md后半段，感谢Discord用户B3nsn0w提供英文版本的说明，并翻译与校对。<Br/>
+Language: Simplified Chinese (China). If you need an English explanation, please refer to the second half of this README.md. Thank you to Discord user B3nsn0w for providing the English version of the explanation and translating and proofreading it.<Br/>
 ## 介绍
 想要与max在电脑面前一起愉快的聊天吗？想要有一个陪伴在你身边的游戏角色吗？基于Blender和Google的开源插件Mediapipe制作的MaxVideoChat可以帮助你快速实现此功能。
 ![7}ZJ0XY{ZY}2VWUAI8%YL_H_tmb](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/dfa96bed-7085-4a5c-b60d-e74ba4316db7)
@@ -54,7 +56,59 @@ Blender 3.6及以上版本，你可以通过https://www.blender.org/ 下载该�
 如果未成功启用追踪，请查阅插件选项是否与以下内容符合，或者重新尝试点击这些选项，直到成功追踪到你的面部<Br/>
 ![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/8b324395-2c34-40a6-9fb9-57ec2447aeb6)<Br/>
 
-
-
-
-
+# MaxVideoChat-Max Caulfield Facial Tracking System v0.1.0
+Language: English. If you need a Chinese explanation, please refer to the first half of this README.md.<Br/>
+语言：英语（English），如果你需要中文说明，请参阅此README.md前半段。<Br/>
+## Introduction
+Do you want to have a fun chat with Max in front of your computer? Do you want to have a game character by your side? MaxVideoChat, based on Blender and Google's open source plugin Mediapipe, can help you achieve this quickly.
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/dfa96bed-7085-4a5c-b60d-e74ba4316db7)
+## System Requirements
+### Minimum Requirements
+Processor: Intel(R) Core(TM) i5-10210U or better processor.<br/>
+Memory: 16GB RAM or higher.<br/>
+Operating System: Windows 7/10/11.<br/>
+Graphics Card: GPU display adapter with NVIDIA GeForce GTX 1050TI, 4GB VRAM or higher.<br/>
+Camera: Device camera with imaging resolution not less than 800*600.<br/>
+### Recommended Requirements
+Processor: Intel(R) Core(TM) i7-7700K or better processor.<br/>
+Memory: 24GB RAM or higher.<br/>
+Operating System: Windows 10/11.<br/>
+Graphics Card: GPU display adapter with NVIDIA GeForce RTX 2060, 6GB VRAM or higher.<br/>
+Camera: Device camera with imaging resolution not less than 1920*1080.<br/>
+### Other Requirements:<br/>
+Blender 3.6 or higher version, you can download the software from https://www.blender.org/.<br/>
+BlendArMocap plugin needs to be enabled, you can download the plugin from https://github.com/cgtinker/BlendArMocap.<br/>
+## Installation and Configuration of MaxVideoChat
+### Open Blender
+Launch Blender on your computer.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/18a1a4cb-85f2-499e-aad9-bb54457987a6)<br/>
+### Enable the Plugin
+Navigate to Edit -> Preferences.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/7a089ff1-c9d5-4ac2-ad85-e56b0c938765)<br/>
+Switch to the "Add-ons" tab, then click on "Install...".<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/abcbbf6d-b7b0-4bb6-88da-1bcb397e78c5)<br/>
+In the popup menu, find the BlendArMocap plugin and click "Install Add-on". You will see the following interface.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/a5446c3f-e6b8-4e6f-a30f-d2ccb2fc8bc2)<br/>
+Check the checkbox for this plugin and expand it. If there is an "Install" button below, click it to install the additional components.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/4d425391-64b2-47ec-a72c-d2bf2951dead)<br/>
+### Open the Project File
+Navigate to File -> Open -> Open the MaxVideoChat.blend file located in the download directory.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/91db117a-838f-4508-88b0-688b1eac4716)<br/>
+### Switch to Material Preview Mode
+Press and hold the "Z" key on your keyboard. Blender will pop up a pie menu, move the mouse to the "Render" option and release the key.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/11d54bdd-2b0c-41f3-ae5d-d3c5d1ac85cb)<br/>
+### Wait for Preview Rendering to Complete
+Wait for the preview rendering to complete until the screen is similar to this interface.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/d1db0133-e4f3-4214-8ccc-7cd58f904196)<br/>
+### Find the Plugin Tab
+Press the "n" key on your keyboard, then expand the Mediapipe and Pass tabs.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/4f1ca0b9-b362-4ff1-abb5-bd93f0f7bd1b)<br/>
+### Enable Mediapipe Facial Tracking
+Make sure the target is "Face", if not, select it and click the "Start Detection" button.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/661f9f17-2e60-4f31-89ac-00880c6954ef)<br/>
+### Start Tracking
+Now it will start tracking your face.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/60f8fbad-d2fc-4718-a07a-016eabd7aa8d)<br/>
+### Tracking not enabled successfully?
+If tracking is not enabled successfully, please check if the plugin options match the following or try clicking on these options again until your face is successfully tracked.<br/>
+![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/8b324395-2c34-40a6-9fb9-57ec2447aeb6)<br/>
