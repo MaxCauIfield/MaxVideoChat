@@ -7,16 +7,16 @@ Language: Simplified Chinese (China). If you need an English explanation, please
 
 ## 配置要求
 ### 最低配置要求
-处理器：Intel(R) Core(TM) i5-10210U或更好的处理器。<Br/>
+处理器：Intel(R) Core(TM) i7-12700H或更好的处理器。<Br/>
 内存：16GB及以上RAM<Br/>
 操作系统：Windows7/10/11<Br/>
-显卡：具有NVIDIA GeForce GTX 1050TI，4GB及以上显存的GPU显示适配器<Br/>
-摄像头：不低于800*600成像分辨率的设备摄像头<Br/>
+显卡：具有NVIDIA GeForce RTX 3060，6GB及以上显存的GPU显示适配器<Br/>
+摄像头：不低于1280*720成像分辨率的设备摄像头<Br/>
 ### 推荐配置要求
-处理器：Intel(R) Core(TM) i7-7700K或更好的处理器。<Br/>
-内存：24GB及以上RAM<Br/>
+处理器：Intel(R) Core(TM) i9-13900K或更好的处理器。<Br/>
+内存：32GB及以上RAM<Br/>
 操作系统：Windows10/11<Br/>
-显卡：具有NVIDIA GeForce RTX 2060，6GB及以上显存的GPU显示适配器<Br/>
+显卡：具有NVIDIA GeForce RTX 4090，16GB及以上显存的GPU显示适配器<Br/>
 摄像头：不低于1920*1080成像分辨率的设备摄像头<Br/>
 ### 其它配置要求：<Br/>
 Blender 3.6及以上版本，你可以通过https://www.blender.org/ 下载该软件。<Br/>
@@ -64,16 +64,16 @@ Do you want to have a fun chat with Max in front of your computer? Do you want t
 ![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/dfa96bed-7085-4a5c-b60d-e74ba4316db7)
 ## System Requirements
 ### Minimum Requirements
-Processor: Intel(R) Core(TM) i5-10210U or better processor.<br/>
+Processor: Intel(R) Core(TM) i7-12700H or better processor.<br/>
 Memory: 16GB RAM or higher.<br/>
 Operating System: Windows 7/10/11.<br/>
-Graphics Card: GPU display adapter with NVIDIA GeForce GTX 1050TI, 4GB VRAM or higher.<br/>
-Camera: Device camera with imaging resolution not less than 800*600.<br/>
+Graphics Card: GPU display adapter with NVIDIA GeForce RTX 3060, 6GB VRAM or higher.<br/>
+Camera: Device camera with imaging resolution not less than 1280*720.<br/>
 ### Recommended Requirements
-Processor: Intel(R) Core(TM) i7-7700K or better processor.<br/>
-Memory: 24GB RAM or higher.<br/>
+Processor: Intel(R) Core(TM) i9-13900K or better processor.<br/>
+Memory: 32GB RAM or higher.<br/>
 Operating System: Windows 10/11.<br/>
-Graphics Card: GPU display adapter with NVIDIA GeForce RTX 2060, 6GB VRAM or higher.<br/>
+Graphics Card: GPU display adapter with NVIDIA GeForce RTX 4090, 16GB VRAM or higher.<br/>
 Camera: Device camera with imaging resolution not less than 1920*1080.<br/>
 ### Other Requirements:<br/>
 Blender 3.6 or higher version, you can download the software from https://www.blender.org/.<br/>
