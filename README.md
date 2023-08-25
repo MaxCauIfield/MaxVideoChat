@@ -1,5 +1,5 @@
-# MaxVideoChat-Max Caulfield面部追踪系统 v0.1.0版
-语言：简体中文（中国），如果你需要英文说明，请参阅此README.md后半段，感谢Discord用户B3nsn0w提供英文版本的说明，并翻译与校对。<Br/>
+# MaxVideoChat-Max Caulfield面部追踪系统 v0.2.0版
+语言：简体中文（中国），如果你需要英文说明，请参阅此README.md后半段<Br/>
 Language: Simplified Chinese (China). If you need an English explanation, please refer to the second half of this README.md. Thank you to Discord user B3nsn0w for providing the English version of the explanation and translating and proofreading it.<Br/>
 ## 介绍
 想要与max在电脑面前一起愉快的聊天吗？想要有一个陪伴在你身边的游戏角色吗？基于Blender和Google的开源插件Mediapipe制作的MaxVideoChat可以帮助你快速实现此功能。
@@ -56,7 +56,7 @@ Blender 3.6及以上版本，你可以通过https://www.blender.org/ 下载该�
 如果未成功启用追踪，请查阅插件选项是否与以下内容符合，或者重新尝试点击这些选项，直到成功追踪到你的面部<Br/>
 ![image](https://github.com/MaxCauIfield/MaxVideoChat/assets/61368414/8b324395-2c34-40a6-9fb9-57ec2447aeb6)<Br/>
 
-# MaxVideoChat-Max Caulfield Facial Tracking System v0.1.0
+# MaxVideoChat-Max Caulfield Facial Tracking System v0.2.0
 Language: English. If you need a Chinese explanation, please refer to the first half of this README.md.<Br/>
 语言：英语（English），如果你需要中文说明，请参阅此README.md前半段。<Br/>
 ## Introduction
